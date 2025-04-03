@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Wolfie_logo.png" width="300" alt="Wolfie Logo">
+</p>
+
 # Wolfie
 AI-powered mood-based music generator inspired by classical and modern composers
 
